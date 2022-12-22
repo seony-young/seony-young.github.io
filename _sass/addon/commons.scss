@@ -720,7 +720,7 @@ $sidebar-display: "sidebar-display";
     color: var(--sidebar-muted-color);
     */
     /* 2022-12-23 */
-    color: rgba(220, 220, 220, 99%);
+    color: rgba(230, 230, 230, 99%);
     line-height: 1.25rem;
     word-spacing: 1px;
     margin: 0.2rem 1.5rem 0.5rem 1.5rem;
@@ -746,7 +746,11 @@ $sidebar-display: "sidebar-display";
 
     &.active {
       .nav-link {
+        /*
         color: var(--sidebar-active-color);
+        */
+        /* 2022-12-23 */
+        color: rgba(230, 230, 230, 99%);
       }
     }
 
