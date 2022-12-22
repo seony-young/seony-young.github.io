@@ -1,6 +1,6 @@
 ---
 title: "12월 22일 업무 일지"
-author: seony-young
+author: "Seony"
 date: 2022-12-22 16:24:31 +0900
 categories: [Project]
 tags: [project, daily_work_log]
