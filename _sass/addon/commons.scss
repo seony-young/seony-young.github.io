@@ -1,3 +1,7 @@
+/* 2022-12-23 */
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+
 /*
   The common styles
 */
@@ -713,6 +717,7 @@ $sidebar-display: "sidebar-display";
       */
       /* 2022-12-23 */
       color: rgba(255, 255, 255, 0.99);
+      font-family: 'Montserrat', sans-serif;
     }
   }
 
@@ -723,6 +728,8 @@ $sidebar-display: "sidebar-display";
     */
     /* 2022-12-23 */
     color: rgba(230, 230, 230, 99%);
+    font-family: 'Montserrat', sans-serif;
+    
     line-height: 1.25rem;
     word-spacing: 1px;
     margin: 0.2rem 1.5rem 0.5rem 1.5rem;
